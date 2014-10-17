@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tue:home|Door43 (tue)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tue|d43-tue repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tue/archive/master.zip|d43-tue.zip]]
+
+**Recent Changes**
+{{changes>ns = tue}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tue|Ethnologue data]]
+
